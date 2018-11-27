@@ -89,4 +89,4 @@ upbit = {155, 'ENG', 'DMT', 'DCR', 'DTA', 'ARK', 'ADX', 'EXCL', 'SIB', 'WAX', 'V
 #print(binance & bittrex & okex & huobi & gate & upbit) # GNT, WAVES, STORJ, RCN, MCO, SALT, LSK, ADA
 #print(binance & bittrex & okex & huobi & upbit) # ARDR, ENG, XEM
 #print(binance & bittrex & huobi) # POWR, XZC, STEEM, BAT, GRS, XVG, LUN, POLY
-#print(binance & huobi) # RDN, TNB, BLZ, CMT, EVX, WTC, AST, KNC, ONT, IOTA, TEQ, APPC, NCASH, TNT, GXS, WPR, CHAT, ZIL, AE, THETA, NAS, WAN, PHX, OST, DGD, VET, LINK, QSP, ELF, MTL, HOT, HC, XZC, ICX, IOST
+#print(binance & huobi) # RDN, TNB, BLZ, CMT, EVX, WTC, AST, KNC, ONT, IOTA, TEQ, APPC, NCASH, TNT, GXS, WPR, CHAT, ZIL, AE, THETA, NAS, WAN, PHX, OST, DGD, VET, LINK, QSP, ELF, MTL, HC, XZC, ICX, IOST
