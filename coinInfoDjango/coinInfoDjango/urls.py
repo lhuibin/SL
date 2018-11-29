@@ -15,9 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from . import view
+from . import view,testdb
 
 
 urlpatterns = [
     path('hello/', view.hello), #第一个是访问的路径，第二个是调用的函数
+    path('testdb/', testdb.testdb),
 ]
