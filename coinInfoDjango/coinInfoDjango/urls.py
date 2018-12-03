@@ -15,10 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from . import view,testdb
+from . import view,testdb,weixin
 
 
 urlpatterns = [
-    path('hello/', view.hello), #第一个是访问的路径，第二个是调用的函数
+    path('', view.hello), #第一个是访问的路径，第二个是调用的函数
     path('testdb/', testdb.testdb),
+    path('weixin/', weixin.weixin_main),
 ]
